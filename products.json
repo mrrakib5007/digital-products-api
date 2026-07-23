@@ -7,7 +7,7 @@
     "category": "VPN",
     "productType": "Account",
     "deliveryType": "Email & Password",
-    "image": "https://example.com/images/adobe-photoshop.jpg",
+    "image": "https://petapixel.com/assets/uploads/2013/06/photoshopcc.jpg",
     "platform": [
       "Windows 10",
       "Windows 11",
@@ -80,7 +80,7 @@
     "category": "Software",
     "productType": "Account",
     "deliveryType": "Email & Password",
-    "image": "https://example.com/images/microsoft-365.jpg",
+    "image": "https://www.fordham.edu/media/home/departments-centers-and-offices/fordham-it/ms365.png",
     "platform": [
       "Windows 10",
       "Windows 11",
@@ -153,7 +153,7 @@
     "category": "Antivirus",
     "productType": "License",
     "deliveryType": "License Key",
-    "image": "https://example.com/images/nordvpn.jpg",
+    "image": "https://cdn-tp2.mozu.com/28945-47379/cms/47379/files/95249533-7341-4210-b401-6fb79be77692",
     "platform": [
       "Windows 10",
       "Windows 11",
@@ -440,13 +440,13 @@
   },
   {
     "id": 8,
-    "slug": "chatgpt-plus-shared",
-    "title": "ChatGPT Plus Shared",
+    "slug": "chatgpt-plus",
+    "title": "ChatGPT Plus",
     "shortTitle": "ChatGPT",
     "category": "Office",
     "productType": "Account",
     "deliveryType": "Email & Password",
-    "image": "https://example.com/images/chatgpt-plus-shared.jpg",
+    "image": "https://i.ibb.co.com/jkhxhY9r/byts-chat-gpt.jpg",
     "platform": [
       "Windows 10",
       "Windows 11",
