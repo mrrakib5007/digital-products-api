@@ -1,4 +1,5 @@
-[
+{
+  "products": [
   {
     "id": 1,
     "slug": "adobe-photoshop",
@@ -634,3 +635,4 @@
     ]
   }
 ]
+}
