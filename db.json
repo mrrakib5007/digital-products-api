@@ -1,5 +1,4 @@
-{
-  "products": [
+[
   {
     "id": 1,
     "slug": "adobe-photoshop",
@@ -316,6 +315,322 @@
         "discount": "-86%"
       }
     ]
+  },
+  {
+    "id": 6,
+    "slug": "grammarly-premium",
+    "title": "Grammarly Premium",
+    "shortTitle": "Grammarly",
+    "category": "Software",
+    "productType": "Account",
+    "deliveryType": "Email & Password",
+    "image": "https://example.com/images/grammarly-premium.jpg",
+    "platform": [
+      "Windows 10",
+      "Windows 11",
+      "Android"
+    ],
+    "availability": "Instant Delivery",
+    "stock": "36",
+    "rating": 4.9,
+    "reviewsCount": 283,
+    "features": [
+      "24/7 Support",
+      "Instant Delivery",
+      "Free Updates",
+      "Premium Quality"
+    ],
+    "currency": "BDT",
+    "gallery": [
+      "https://example.com/images/grammarly-premium-2.jpg",
+      "https://example.com/images/grammarly-premium-3.jpg",
+      "https://example.com/images/grammarly-premium-4.jpg"
+    ],
+    "sales": 198,
+    "featured": true,
+    "bestSeller": false,
+    "recommended": false,
+    "newArrival": false,
+    "description": "Grammarly Premium premium product.",
+    "longDescription": "Grammarly Premium premium subscription/license with instant delivery and support.",
+    "warranty": "No",
+    "durationVariants": [
+      {
+        "label": "1 Month",
+        "value": 1,
+        "unit": "month",
+        "price": 199,
+        "oldPrice": 2985,
+        "discount": "-93%"
+      },
+      {
+        "label": "6 Months",
+        "value": 6,
+        "unit": "month",
+        "price": 149,
+        "oldPrice": 894,
+        "discount": "-83%"
+      },
+      {
+        "label": "1 Year",
+        "value": 12,
+        "unit": "month",
+        "price": 399,
+        "oldPrice": 4788,
+        "discount": "-92%"
+      },
+      {
+        "label": "Lifetime",
+        "value": 0,
+        "unit": "lifetime",
+        "price": 299,
+        "oldPrice": 2990,
+        "discount": "-90%"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "windows-11-pro",
+    "title": "Windows 11 Pro",
+    "shortTitle": "Windows",
+    "category": "Antivirus",
+    "productType": "License",
+    "deliveryType": "License Key",
+    "image": "https://example.com/images/windows-11-pro.jpg",
+    "platform": [
+      "Windows 10",
+      "Windows 11",
+      "Android"
+    ],
+    "availability": "Instant Delivery",
+    "stock": "Unlimited",
+    "rating": 4.8,
+    "reviewsCount": 92,
+    "features": [
+      "24/7 Support",
+      "Instant Delivery",
+      "Free Updates",
+      "Premium Quality"
+    ],
+    "currency": "BDT",
+    "gallery": [
+      "https://example.com/images/windows-11-pro-2.jpg",
+      "https://example.com/images/windows-11-pro-3.jpg",
+      "https://example.com/images/windows-11-pro-4.jpg"
+    ],
+    "sales": 2108,
+    "featured": false,
+    "bestSeller": true,
+    "recommended": true,
+    "newArrival": false,
+    "description": "Windows 11 Pro premium product.",
+    "longDescription": "Windows 11 Pro premium subscription/license with instant delivery and support.",
+    "warranty": "Yes",
+    "durationVariants": [
+      {
+        "label": "Lifetime",
+        "value": 0,
+        "unit": "lifetime",
+        "price": 499,
+        "oldPrice": 1999,
+        "discount": "-68%"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "chatgpt-plus-shared",
+    "title": "ChatGPT Plus Shared",
+    "shortTitle": "ChatGPT",
+    "category": "Office",
+    "productType": "Account",
+    "deliveryType": "Email & Password",
+    "image": "https://example.com/images/chatgpt-plus-shared.jpg",
+    "platform": [
+      "Windows 10",
+      "Windows 11",
+      "Android"
+    ],
+    "availability": "Instant Delivery",
+    "stock": "91",
+    "rating": 4.9,
+    "reviewsCount": 274,
+    "features": [
+      "24/7 Support",
+      "Instant Delivery",
+      "Free Updates",
+      "Premium Quality"
+    ],
+    "currency": "BDT",
+    "gallery": [
+      "https://example.com/images/chatgpt-plus-shared-2.jpg",
+      "https://example.com/images/chatgpt-plus-shared-3.jpg",
+      "https://example.com/images/chatgpt-plus-shared-4.jpg"
+    ],
+    "sales": 2850,
+    "featured": true,
+    "bestSeller": true,
+    "recommended": true,
+    "newArrival": false,
+    "description": "ChatGPT Plus Shared premium product.",
+    "longDescription": "ChatGPT Plus Shared premium subscription/license with instant delivery and support.",
+    "warranty": "Yes",
+    "durationVariants": [
+      {
+        "label": "1 Month",
+        "value": 1,
+        "unit": "month",
+        "price": 199,
+        "oldPrice": 1393,
+        "discount": "-86%"
+      },
+      {
+        "label": "6 Months",
+        "value": 6,
+        "unit": "month",
+        "price": 299,
+        "oldPrice": 3588,
+        "discount": "-92%"
+      },
+      {
+        "label": "1 Year",
+        "value": 12,
+        "unit": "month",
+        "price": 299,
+        "oldPrice": 2093,
+        "discount": "-86%"
+      },
+      {
+        "label": "Lifetime",
+        "value": 0,
+        "unit": "lifetime",
+        "price": 99,
+        "oldPrice": 495,
+        "discount": "-80%"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "youtube-premium",
+    "title": "YouTube Premium",
+    "shortTitle": "YouTube",
+    "category": "Software",
+    "productType": "Account",
+    "deliveryType": "Email & Password",
+    "image": "https://example.com/images/youtube-premium.jpg",
+    "platform": [
+      "Windows 10",
+      "Windows 11",
+      "Android"
+    ],
+    "availability": "Instant Delivery",
+    "stock": "46",
+    "rating": 4.7,
+    "reviewsCount": 289,
+    "features": [
+      "24/7 Support",
+      "Instant Delivery",
+      "Free Updates",
+      "Premium Quality"
+    ],
+    "currency": "BDT",
+    "gallery": [
+      "https://example.com/images/youtube-premium-2.jpg",
+      "https://example.com/images/youtube-premium-3.jpg",
+      "https://example.com/images/youtube-premium-4.jpg"
+    ],
+    "sales": 2305,
+    "featured": false,
+    "bestSeller": true,
+    "recommended": true,
+    "newArrival": false,
+    "description": "YouTube Premium premium product.",
+    "longDescription": "YouTube Premium premium subscription/license with instant delivery and support.",
+    "warranty": "No",
+    "durationVariants": [
+      {
+        "label": "1 Month",
+        "value": 1,
+        "unit": "month",
+        "price": 199,
+        "oldPrice": 1194,
+        "discount": "-83%"
+      },
+      {
+        "label": "6 Months",
+        "value": 6,
+        "unit": "month",
+        "price": 299,
+        "oldPrice": 2691,
+        "discount": "-89%"
+      },
+      {
+        "label": "1 Year",
+        "value": 12,
+        "unit": "month",
+        "price": 149,
+        "oldPrice": 1788,
+        "discount": "-92%"
+      },
+      {
+        "label": "Lifetime",
+        "value": 0,
+        "unit": "lifetime",
+        "price": 199,
+        "oldPrice": 1194,
+        "discount": "-83%"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "idm-lifetime",
+    "title": "IDM Lifetime",
+    "shortTitle": "IDM",
+    "category": "Antivirus",
+    "productType": "License",
+    "deliveryType": "License Key",
+    "image": "https://example.com/images/idm-lifetime.jpg",
+    "platform": [
+      "Windows 10",
+      "Windows 11",
+      "Android"
+    ],
+    "availability": "Instant Delivery",
+    "stock": "Unlimited",
+    "rating": 4.8,
+    "reviewsCount": 84,
+    "features": [
+      "24/7 Support",
+      "Instant Delivery",
+      "Free Updates",
+      "Premium Quality"
+    ],
+    "currency": "BDT",
+    "gallery": [
+      "https://example.com/images/idm-lifetime-2.jpg",
+      "https://example.com/images/idm-lifetime-3.jpg",
+      "https://example.com/images/idm-lifetime-4.jpg"
+    ],
+    "sales": 3834,
+    "featured": true,
+    "bestSeller": false,
+    "recommended": false,
+    "newArrival": false,
+    "description": "IDM Lifetime premium product.",
+    "longDescription": "IDM Lifetime premium subscription/license with instant delivery and support.",
+    "warranty": "Yes",
+    "durationVariants": [
+      {
+        "label": "Lifetime",
+        "value": 0,
+        "unit": "lifetime",
+        "price": 899,
+        "oldPrice": 999,
+        "discount": "-53%"
+      }
+    ]
   }
 ]
-}
